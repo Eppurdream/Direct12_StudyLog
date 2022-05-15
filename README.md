@@ -1,1 +1,1 @@
-# Direct12_StudyLog
+# Direct12 공부 일지
